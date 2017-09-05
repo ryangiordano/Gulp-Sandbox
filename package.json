@@ -1,5 +1,5 @@
 {
-  "name": "Gulp Sandbox",
+  "name": "Gulp-Sandbox",
   "version": "1.0.0",
   "description": "A sandbox with a development server and hot-reloading",
   "main": "index.js",
